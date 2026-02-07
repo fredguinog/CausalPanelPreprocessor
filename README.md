@@ -28,9 +28,9 @@ For detailed motivation and proofs, refer to the manuscript.
 
 The methodology implemented in this package is described in the following articles. If you use this software in your research, please cite it.
 
-> Nogueira, Frederico Guilherme. "Irrelevant Donors: Causes and Consequences of Spurious Pre-Treatment Fits in Causal Panel Methods." 2026.
+> Nogueira, F. (2026a). Irrelevant Donors: Causes and Consequences of Spurious Pre-Treatment Fits in Causal Panel Methods. [Nogueira 2026a Irrelevant Donors](https://github.com/fredguinog/CausalPanelPreprocessor/blob/main/Nogueira%202026a%20Irrelevant%20Donors.pdf)
 
-> (in development) Nogueira, Frederico Guilherme. Companion Manuscript Part2. 2026.
+> (In development) Nogueira, F. (2026b). Companion Manuscript Part2.
 
 ## License
 
