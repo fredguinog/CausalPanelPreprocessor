@@ -1,8 +1,8 @@
 # CausalPanelPreprocessor
 
-![GitHub license](https://img.shields.io/github/license/fredericonogueira/CausalPanelPreprocessor)
+![GitHub license](https://img.shields.io/github/license/fredguinog/CausalPanelPreprocessor)
 ![PyPI version](https://img.shields.io/pypi/v/causal-panel-preprocess)
-![GitHub stars](https://img.shields.io/github/stars/fredericonogueira/CausalPanelPreprocessor)
+![GitHub stars](https://img.shields.io/github/stars/fredguinog/CausalPanelPreprocessor)
 
 This repository implements a preprocessing framework for causal panel data analysis, as motivated in my manuscript, "Irrelevant Donors: Causes and Consequences of Spurious Pre-Treatment Fits in Causal Panel Methods." In the manuscript, I formalize the challenges arising from irrelevant donors in panel data methods for causal inference, such as synthetic controls and interactive fixed effects. These methods construct counterfactuals using linear combinations of control units, relying on relevance (the treated unit's latent structure residing within the donor span) and conditioning (stable Gram matrices for recovery). I introduce the contamination ratio κ, defined as the effective rank of irrelevant donors divided by the pre-treatment periods, which attenuates projection-based diagnostics proportionally. For instance, a κ of 0.5 masks 50% of relevance violations. The analysis reveals a phase transition at κ approaching unity, where residuals vanish, yielding spurious fits despite fundamental identification failures. I distinguish unstructured irrelevance, with rank approximating the donor count, from structured cases tied to confounding dimensions.
 
